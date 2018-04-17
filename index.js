@@ -12,4 +12,5 @@ function deepestChild() {
 
 function increaseRankBy(n) {
   let lis = document.querySelectorAll('.ranked-list li')
+  
 }
