@@ -10,6 +10,6 @@ function deepestChild() {
   return document.querySelector('#grand-node').querySelectorAll('div')[3]
 }
 
-function increaseRankBy() {
+function increaseRankBy(n) {
   
 }
